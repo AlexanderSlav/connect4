@@ -29,5 +29,3 @@ cols: 7          # Number of columns (4-10)
 win_length: 4    # Number of consecutive pieces needed to win (3-8)
 
 ```
-
-## Demo how it works
