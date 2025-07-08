@@ -18,7 +18,7 @@ python run.py --config path/to/your/config.yaml
 
 
 ```yaml
-a# Connect 4 Game Configuration
+# Connect 4 Game Configuration
 # This file controls the game settings
 
 # Board dimensions
